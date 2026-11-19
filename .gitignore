@@ -1,0 +1,10 @@
+# Data and large artifacts (not committed)
+*.csv
+*.zip
+*.pkl
+
+# Environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
